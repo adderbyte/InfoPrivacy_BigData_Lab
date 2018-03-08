@@ -1,0 +1,695 @@
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 95
+
+"7Y8Ca1qjWelkiaLoW4r6tybu0DdXX48Ldv cc -- 7865.0924.1287.438 ARa6WxMutTs9sNsY9pWMhIJCQeURwa4Vj"
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 393
+
+"tsYX4vFi3LNiSSgpuAXDZjo8IBVsCLwQohdChlnnf80ftkGe9eZpKSczB405gPjnHjEAeJayPvHdWvx4jWDX5nhxejycqJKgRSbW5AwoTCkAWAx1caKKH9li69Frl32JDoa8AzzQfcQBZ0Q6DEb9Rhpeeclq3DISeajxeJdpymm1d6f1hh21War0xg3m5nnm5eyjpctJaignovzp0 pwd --- W;PGR5E@SU1X> rxnNEjkz27TPlkgfyCFGgJKlUiHbO1rr4PfeGz60PdT7asDe3nSYJVvCEm81qNRu7soVw8Dy3c4Gu2TVSwGnkvz5eE6YIjm5jTKNnvyCl1ORHAhR3ZrBr9Uv8K2H0xSbp33HLy67wvT4MRdqXB07X1st5yrK1D3"POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 76
+
+"Nz3JA58tnxYOGPbc2GpTbHK8MLcRs cc -- 7865.0924.1287.438 NHgJ53ayrX2DzYAKQVP"POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 159
+
+"6sTSqbVAmnc9Iu14eNjpiRDWbXghzIwlqo7H3FGAj0biamNqNVGbtbK58SqSm2OG9Lf1xm3WcL3nsQ5O2a2dNgFRTYtxrrVcEQtKhG cc -- 7865.0924.1287.438 AY7zzGzqlITNhm2gGQmzib0dK5hBC"POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 439
+
+"4rZqzRIfGWcSRX9nTMEf7vHNXURTVUvQQEve9BBeOYHxN9s2NeEdHxwzYKBd15GoEntwYxntJKnPId3CNXBFw0U1GJl04Q4kopIIZ0fpWbrHnnEHp94PrJExdB1hFrqA5y3e4BpFBXCf5YnT01Q03Ql7pohJjtZZEHE1b7pmab1HRyAoGpkeuE69ur2jkP4sIBRMn7Zq8AeYsP8WWMRo3Duuw3Q9Gjt3eAc2tDkI02SMNCQcJyDANIvFIg9M1wYx7yepm3nXXBN6
+
+
+
+
+8qJxOkmvtFSvVTFCBdfL5QYqGD9U6CPZhVRisvFGFNKoDkNfdoFMqS2kwSqklOBhZtjlH7waIG7UDZ5EUFdwMznlPQjIsWPs0I0hRiUeSYZvH7JmoWemxDXMg1daAru377j2QEL9Si8ZznUuosrt49Bj92YeE1CJyYVTS7FYX"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 264
+
+"RlP8M1WEmKgm4ezcYc9p3cmEr5XjDZGPr0g66ZIgiWr1bxNLv3ZjDvCEOD3AOPHxgWybfIslS pwd --- =X5AN>?YN419PA DKaX9LBvl9GUQPx5t8hwC5G1po24WX7YokPHmfbbrDJSGsQa4pyZ9UXexO0vLGyQSE26VnMxHV87JZR1xZwkFYeQwZ43LaLGhIpW8rLXcnAy4cp9RnNp8a06ZwSPnSQaUMRXaTJ4y9KBY5orwolfXbFTpEiTGBAcpQgBE"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 185
+
+"Li6fB9Pln3RLu9DVPU1nqdteOkO5nTMdheKiQb2LRJjiDgOiJ3JYUx7OMG8cCsic938hWxZ pwd --- W;PGR5E@SU1X> tNSYVxGFseEFU5XlVy2DDV0WkzLt3309B8SfyIXp8KNTfmRhiMkxHUDXkjubJgjevdKjZbSxJLkM9oD281rfdOhB2"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 160
+
+"nUjz6wwRNO3HW7qXqQjrl26PwV9OPaVrg93JMpl7PRDDTX5Z1eB6QArqlsnbXtEYTjuNpDRBFN pwd --_ sunnY_daY 0Chm7miQ0EbkwM9i20dugIB5kFrhQ75MZCspCGAenh2FY1CFOhl8QGhtA3V14oBns"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 65
+
+"0NQnMToolik03NT pwd --- =X5AN>?YN419PA bfjQ0VboKSZro65DjLCAUN0H"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 178
+
+"xKQdmMiA881kIYIZKUihWVf0HO7Eu3BBubka6eCDEOXn3qbK2yvDIzrbezMuBo9R2iSXxbtLnT0a6NvGsI9y6jBSBJW3wpPXZTH17mLdFyFUkt5S5 cc --- 7968/7126/0501/8790 GeVopxc3GSFjGZ0QX9A5yRjIFIJdFujNTZM"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 381
+
+"QwF7DynH3cyZ8vcriBpFbUkcOfKa9POWUXlYPvAvNwM57cjHHSjebw2IzgyHuXqBbu6l2LKyqFOogKmTrSc8Gz89ZzvD1lbxxlcLn9FvJA7u3mHlMRvQMQ9m5wySpojtqFrbbNQbb4uJ5eLef cc --- 0470.5684.7704.8295 9AqmBoHmxbgSOCfautNKGLI84a65byu4M2E8fR2DYQaum3NwJAXGS8Gb7hyKotINiGxaSgWhOLHTALdov7y5mKe2BXQTFYWNHCviZGbbh2pr6lMIiMX1S0uloagOdKsWeSaMznhvRpLeJATn8dxjXXa2kCmsqzyzqEootjywBmEgCuJnqRn6d3dtT3kzwQ5biPhTt5zKmY6bYI"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 180
+
+"YaYVBnl0KdBEh2fF9CYQsUWP4k61HmozU2CEcw8D08wUQZasexZfxApXeYlj3J8ZNUKP6VsUghaZwljLjfAVbYQO9 cc -- 7865.0924.1287.438 YCl3RKYoWning8WYBzPbB56pCUO3kt4d76UnMMgFgGJYPGHvVoBqbGUQpGKPRbN"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 86
+
+"i2zzYykDYyeLqvpbPv29XQ0IcLo6SGVH3S1SgQQEi929Zq cc --- 1094.5623.4.45 TY9GrxgBH5LVdDW"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 351
+
+"vXOrAK5pW99hxMqTIVtWjCWLAycjGwEER8CY3PdRxzu5hB7dEbrIgeZ35NHbsc0Bmjrk8EiivG7rAqz28R8B6MqOp3j6njZPzvyDJAidASowvaKKycdeWUAyvopoDkGYk2CuNtc78jzoZIw0tSMepaw4ctV22Y2E6gu0extOzvPUJdKZPTw8ltRAcd0fEpkO0uc8ipfZC7JwDNxydbl7GKo6WOWA4BzzXGixfrE8OV cc -- 7865.0924.1287.438 ppsk8nEeNwJv7H3IklPaHFqcLQv8KX4JCbLvEAaWP364JT5axqqlIYIUibLJwrLgfoNsTpnjCUxsiaOdq7UsZBeUe"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 250
+
+"PcFaBzrNE5iOc8e6xPJ50NvmwDZiMofphlbKNGy2MXzyHj7fbT8NRITuvW4ISozwj0aN8zmWXCVr6xQztxGeyYHswXPHZHvqKeLp8FBdrmrR0bor6MOea0VF2otp6Iis3B5FHkYjDisSxXvHYQZerQgT1VNGMtgMpoByhNy8GM8wxw pwd --- stay@strong xPoDRMETOC4UpmoyyDYY6nnwMRMCLDLSjjvDr8go42JolT4xWGXQ2"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 347
+
+"dV6QBqyn8rPNPSArm8S0ATwOm60vmljCx5uA110gXlsTNbLjl2uSVVyPB0C7xJyIi5jvVv4mYrUuG7UW6rvjZuXGG1p2uOInkaldLoBlAzvpbJr7VQCidiStrgyDyvmJqKKwkCpGobqMAWara2JNtukNDI2p8hV6Xa9lt6KMWt35BF7BSOCAzd2Yve77K6poqd7pwDXbFDPoNJoJdafOH4nZHjIDbKmO694cZ78MwVJ77aP cc --- 5370/2586/7638/8964 DtrmehSadrBLOmoQvhPlvRl7UUIcm4WnyYeRdFHxaoZeYZIvRyyaSjbBPW2K7B7J2niwPR7lmGWWoj"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 233
+
+"aStNtMXbQWLca9Po27odXvWeSOATYFu6u0IcHO9xYg3F2KVyJhkUw0lLznI0E8MOsd8S7Uzh4CuMFdUYri1KK83SoVYQFD6HOWarXM6KZNLQJ0gF2a6K3We831cuRLTMUwk9O8nUsrZHgBuCy889gz1dZFxhrCKvdejG1n4b9W pwd --_ sunnY_daY ys8bViJkGdxoDkFoHGjokSKWjhNcPGiAXqsALLMS7x"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 390
+
+"PaW76St2ChLftpoAow0eEN5ifgVXsFKzKSOEhDF6AKplhhKJax76L2ks75CtZjYfShMB1AGAmt7jSXgRGqBhfrxU1jXLUcCUIxbAORlvDKwALx6Xh2aYhxQdokVqAsJoK8MHbnh5WEtYVl2vCJtDmpyMPnsiZI0cMNqUHNjv2dI6eTPOCBVIN cc --- 5370/2586/7638/8964 O64cQiOg7PQ1W6HcflSFMhRu3MkCbY0MxK0n4hSk5rsDsNN5zSoqOUjcM6jv9ROQVFhQgWQHhKyPI8U3KP5j1vaUESAWF5SoZpytvGK4c1PDmoeMYYOzKcZpVJOnqKa9y5TfRklzAZmarBOkVq7tol57TJGRMcVPBMendyp9Hu7NAmueAUI"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 416
+
+"4WGw2zlpWYs3ZvFGkdaO8MAtir5EjSIwDdnJ0hQYIEbtdhghzxtJlIeOAuD2sZspErUPOlxRZZEVeBXud3JOdogXhdRfV3670atiPKbkZwQEdSDlep2QLhewVAx4XrGOW6tglqFl6MHbNtcy4mNz9oFA9FYnND9Q4dtY3856NaP642yG9mIjFadfjIP7BCg22YBbjuFVjC76C56yCtaoNofAYXeyeHfxlffHsKGKTtS0iRWjEtfzDmycbnfTCE6RWDRshkq3ts7Toun9Zws4oaqh74kP41HDHLxn3yZDF2SZnwS2XDW6CB0OIoAVfqdoncMhiwEJpiQOL7ku93gNhP4OkBa2b3226wAqNQpn3wlI29ctb6HRSZBtlG6HpZedM1FnPfXZXydxps2GWd7c3wbyrBYPLs"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 360
+
+"A2KEumtF3MJMypgs86CIwSmuJXqNiAhPOqy95cFLxiFkU1jYdbWtpP5B4bhsvyP4dtXppx8kvCC2al5d8B132WHSFWc4siD3JO9PxKO8zEPeOoIgOKlejeGgsiisKfw06iuxmEETJgGX cc --- 5370/2586/7638/8964 JtHvijyvUNF1OiNWp3SpmFSzSxkyw47IUqMphIqf9CfsKqsqZfgtqcFLeXyAmrRmFANmTwayT7SDhJWOgHpMfRVJNiDBOk9QeR9qjjxyeM3oRqcQ6MKZwY1HMz5oM1iUe1Jhrj7VKAMWoYn1ZOpKwMguj1PgzUykCGJpYJnLanFuEz64birrRnAg9MZSO1"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 132
+
+"B2aGGQaqK cc --- 7629.56... MOIBjfezxUu2VugXkU6lDG7UZk4jWRvIXkd7xf5X7KCajPcEMcKz4aHVOmLXnMwgk8kNc6Wqd1OfcrVbED6vuFCwgUDxOGtmh9xhZi"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 335
+
+"Abg5t0BhH8XUvlVkZk2gjUZAOiKwhl4gMZsylyzLJqZRvAZ25oIgLdg2N8eZGisPRUtdHHzGnoLC1yRSxgqPJq6jUXcMvF cc -- 7865.0924.1287.438 PvJOC3r900quTU7SCCIm3NknWWEowXF9MyHPO811ZF71373AOKQZELGgoEG7CPLzwzN6T1FTe4U5oz8fUeJcK0jxCCPXwZBaz1hvVkpVrdpnMGclaHMFYMOGSFAy0quCXDWoWaNysRi3z3Ow3CBYd155i2VRZH9fCiAMlkXcqKvxiJDNGdVR0jyOTY0iOZSMCppExcaSnrBvRsgOsvybd"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 158
+
+"Cg0TF7w2aLEdiSxbGAxX8AAgXgX8yvONQo9e3oMIvXldbEXoaexds2jwZ1FJyhMvRcpMB72 pwd --- W;PGR5E@SU1X> 23BAtOkl1FFCVySXp8vTDGHhaCQcmVckjSg3Vg142g1LEsWb5MrhrW7QRzsqcG"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 65
+
+"NC35Q64dqZvoKyfZP3ikGYCBvTCqZM3425bmHA9qNZlV0Sr7vERrOqJCs4tC6FG"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 341
+
+"nJ7s0Zu8yc9fD6KxytiqwjfUdImW79HfF7qcLvYNBHrbZMxADr1bZKV8g41UhaftXEXJN6UkSgpiWhJ9L54LmWPRgqKzzlgcWv0t cc --- 7629.56... rCdacedobNVvv0nmeGFQ4v4S3skohrlmSYXrj10vGpWipdFJbhx3E8oTQcokaQsKSaK5CE24X4RKvsf2q5iBek2F8yOMjg6shBscfCrZ0ePNOfIvekWz14fsnGhqXk2y8agXyUBAWaIwBfCh7Q8EzMvrxQNTyqKu7k2ZzwFU5KPD0NesUrksknCIgewmTLscz5DF1EofE9id0n6K6dbkqE7rOniA"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 393
+
+"iWH2kvONDBAB3IliHRkZl6CbY0hn1lt9DD94Fqy2G7qVZYEItH8TBp4zkviNjVd5ZSFh07NERTGn2B7Wx5tmYDfmYPy9ovsHPqI0SI0aMMPE2PmhkoLopc3E7ejZpFZela7vS7IokuY4RU6jjjIeJrc13GAqzLKKU2OMSuiiiZrLaa2sS0UZV259I75J0gRtlrmoIKBK0F9zD32ZUvDOsc7dmHaeaUuSRk3y5wE69OObRKhJqRI2A95yUVYOJbsWLLjGNR2mXfuBhg0Gx0wyXJzkemUcADoBhNFAM00197rJ3TKYakbD9vfSWoRpeyxsMZbjwCidO2bsdqBYxRW0R4t8ent4Rd4u8668pIilI95vfxebPywEwpoXRQqcWHslgwxqjvJ"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 463
+
+"AOHlC1LG9EUaDZibjVgoq3EYyunBz02PyDxuyRFL8H2kexCeP0sdyn4PjfYH7idtqupqe5OhJ0bbFkPaGBPJLMCxpiDiPuNAHpmruo7LH4otW7O1qyMfb6Wf6yhaMCWYQRhDLcU1sFQyRrpJIuSWKZTBpJLZxXc989MfLAjGlwan1UpxmMNvkUIyfNR1oO57d3gM5sX5EKXYHXYKvg83s1t3DLspl24WlLJkSk368vafNAhGgYEDKf3 pwd --- =X5AN>?YN419PA JMTTM0bkeLMniD2XDVCnPRfVWVlxrKBMDpF0MgDam68OWoTdkTsrBrCoHA8UagXQGrVN37ICvcUPLfRolIylBOCg1pnujoM5MlySw4pRSgBAueVXlMQmRwNqdnYnHhEZvth92ZNukvCqcywtoQ6jN01DOiKLdILNoZGetljOwZvCQA9sFTylUfHtDSo6FQ"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 314
+
+"rGMGwJTsI10vk6zOuUzzwsNBHZ2xqxHh1pcspk9fRKQtctSKpvK0WUOMntVxN73QrpPysWAi7sV4Jgf6zgVj7NEORlBAWQaRmjUSloSp363SO5vF2c2ybXGR1MUt5PQndvjtnd1rVX9Ke85lFsWVeDJPieo1nZ1i2u3IGNUh cc --- 7629.56... LOJFV8JC9aw7GaqX7RZVLcyksp3YslEOQcePMZMiq2aejIBvm7U0EQ4DCn4t6qncOCGyzSOu3ZdAujnXbFJ9z2636nfxGF7PhJMxeDOROeyRuq4XhzzXYY4JPfkop"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 188
+
+"yFOB6G1HooELLiNRfZdRnSbI1iW1sKEQPLHThEI3W6r8qlXgloWDfj1Zbh9MUEXaHYiTq8zUQC4GymNz0UI50FfuqwM0CH cc --- 7629.56... HUUwu08WrMevp0eTSlyWcngYxeZFYCo17n7SyhJSy2wle9srnIpkvAWbpr7ax5WVZIgl5xkSr"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 452
+
+"K6tNdzQuYpbMiDgNvAGvZ4aiS5eiBbFUYusXW0P4aiakgSTT7cybSX93EvMq0IFxXJeJ5BOLAiLOGiKyRFudtLlMzlFdCinI9XDNwRLbDBsCySl6u2T0yrcxWCf8XEJpM01dFWMRZtL22pcNBQTwhSv8IsEg8KNRYXcBC17Putr113l2yrlNjBE7a6Su2xLlkJOLH6sD62pY4XNWVaVi0sc1SzuSBMdBh1ABXwAnyccopvRAGPLsvWh pwd --- stay@strong cmxnFnfAWpPK2kbiiRURaf68VRocYTAEXKezIuuHD7Ftqo06SpBnzaYhldG0dabGUeyVUZaFrOUMhOqFtnPxzvSGSpJkySOJPbkOEhv7akMgywDm4B0shC9H3oBfX6eLgEAwHWf9Ff2e8O0PVzpOxTKBlfurzTKluvcyKA8DiPpvhVdqcYFmyy"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 62
+
+"fFxQCzK8xdl5RdtVeSRHF cc -- 7865.0924.1287.438 W1L5zNB8pnpQL"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 302
+
+"D2TPBWFyiFjHYH7eG9dYScLl61xZ7ODuahLM2BbeOczp pwd --- stay@strong iXyc489iQOz9jUAIpbsAWg3we2cN2sSxLv50gePmODfyB00x5IblgHBXNgewjcFAs31lYn4ndmX998QfF5z214moEtnZq9rfEenaUqkhUkT4HkQtvYRSmvZmgFLPNqVR7nEgm395wqZTzhgaYHx1VKK6Kz12OF9AWzKWv2F8ejLHMI9xD8qd0H14AgJNgmSMu4fZSTsWULu9LfeOK5kGqTvEnBOFGr9s9jzMnIZzuEy"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 189
+
+"u5GMbLT1syk8pqSoDCi5UDXvk3Y5SrdMK0zHP41VUl9oRs9bKdf0iBE6RmtfKXsXUyq7WnY5DOqnOZwBn8q27MtiRq6kNPzSNSm5C6DeoCnmreSNQtCmCwyJJDn0KVcX16og3O3 pwd --_ sunnY_daY 1MFFdSopDgJA19Cir6OXfm030w74Ct78G"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 315
+
+"FKJuDpT01TDni7rqQUF8MXQXBbYSICOikQWrMmoOM3LCXy4VghDSqKTWwvqU6Gh4DlIsJ1SDPjKmStvTdJdtlNxA7YTbDs8NUn6uyJ2TeW5jFDkhHx1tt197QWzbX3jcJ48Nrpm4TtX0jgueLPPNMhytrhQhBwg0AsJUemWqwYDqTe38FRVCvWlnyAaoWE8l8B7AN1GnUGyjBQ02iKB4JRBBcBIakXP7xBYPDcESVC7oRaXScekfjPchjvqRxAZGpQJyDIOUZOTar5hNClGL3ilYnRQyZ5mY9wev7RZDgz7dkO88M06wY5hRR"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 316
+
+"XFuHLbwpCUna1eTnQT3iOXBQmiqHsLpwr0pYbDRXOQcdbPDNzbzpcz3DVZvsoDiErLOpK5V3u1AVY0PaznAYGPJv1FFQ3B7uPbtEhlmJve4MVwo028D6pwkovTVeXSJ1BUM8HLZ0UsCUblHyaoCIB2b2aUKz5ZAt2NJK8LdatbMN7FC4re4pY7MB6pFKpIipEr4VulvUhQVHOV0rug6jqRU pwd --- stay@strong eWYcDOOwmKV42tPIm7GZqR0F0dOvTzpq9OGDQUQhHxZP9qsQ8BMNWX7nhphBBXkRuOXld8VH2oKjVw"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 364
+
+"SVPsgTBVb5CWzGbmybnpUCESfKKwQwZLiBgM0gsnLKdtQNtNW0SNGWU5Cws3v6u6MSHAK0cpfv60MSurLNd87y9DOox2YAG915HTNIQFirj3SqXx7ajnZ7NX7ot7sQ5OFeQuUfURu9Akc3KeRujsewMeWuD0M8Rfn5h9Ew2CbXDisFG4hKkfyn1UuroMeMAPzzpXrt8IRb31bl5uG6l7vLjpb8Z7 pwd --- stay@strong MPtGpuXx8dzUTbiIyYyzlqW2ChMlhY9L6xwgyh5o4Pci1eQbUEV1MqYCZAHXT6ZWZbKMdSGSKmvoES07vCJNL4qibYJ2bNSOGxZ9z5eUbCCM7pZXC8HVAtyai"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 315
+
+"2LzELmDkRahcajO7D9jFam9bi144UudMKGeKSjXHjaEsJ02LPd8SdPTF2FyazCMc6bf5OTWm7D81zhOFzqUGFCBUrheqB17oLaF9McH4b5pok7qeNGFJlabHod1oZ7uUKubfBIqaKkX5J6jz cc -- 7865.0924.1287.438 Ohsuvi28z9feGQjheH4aVszY0K9I1zfIBYIzaJpaq7iI5KJJNTdg8QXvQitc4kgTF4iBoDgaAAgywmKepQ1IGSNGeDY5titULMq5UQDQABGaHLJpWwuegbSoCEFZzvwXYboVOaPQXPB0mhj"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 192
+
+"L6NgAjwxcDuhQW0HNsKP6iUJETRvDOSgL5e7GV0f5aG38cwTy51vDQYu63p1uwW3XuPxfz6E4r5sGpskekcGNOVNw90zN744RR4qbjuZj012GUtKGnJGn8O4T3YekoRr9EBjFGdjGaFtA4sJDaWcXDEEmk7dXzduGzXFElbc93jRCuEjF0VD0rDiCQbDF9"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 212
+
+"UE9C60iSPtmtKRwS3D2MEoS9HdBEibqaAnZw45SkY3znJHEu4TmYjhJ2fKOw0gJk2S9MjQ147FKQ10orxmxvJnsipmm21lJPhwkZ8DnvCFhFidNF0S499XZQNNytmilBmjVI3PQ9TwItuw0G1PqDslfLcVqN4nhKO5qApyJRKb9xKVWczxYRr5SX1EQD8ZDacHDL6Z5rcGketazZQW"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 245
+
+"TG76moPeSUT6WpeOX8tHuaBKrNNAxIdBPjqTiKHmPei3rEecbzR5ePsanStTcob8Of5Ie7BniCPUz6ruE8HLlPRuRQ2LUb1HtxQbnYGThiDW2nePSxazmtDgXORL03YdtYCqxlnlIo5fUoMpBOe9jGXALI9MMaeQCBGABg4 pwd --- stay@strong qbFiLse2HfzhrCo9X4UHFnwZ58i8LEHuRg8bIpf2VqnuKyFuB4xT4UP"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 284
+
+"yNUotbozKwYAs2Xk1RG0Dk7Ui2oMZrj9qqDb4TcaeF1ruVO2Z4T44kFo9D4GzOC5HMW pwd --- W;PGR5E@SU1X> 6S22jn59x89NgsQ9MLpRg3NBBRvI6patF5lQQ92P4HfkjGq2RPLKxqw4JKX6I63YIELlB32pCFkFajAbGhLcpx6xcaEqqgNCUgriEp63DKUsdjgegDRrSUMpds9ehG6VkAUpAIlPxNebGm6h6yiYZsCfW92tdADmnVzsRn90GCGqXYoDHDJ1yogm54YtGAUW"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 190
+
+"pPPsWtzF3H2t4kYHQ9ROr8FpjRkhwXsHHUWB2r8IRcbnwab1hTwb4TmB3uH6MpjvRssHQtvFJKy0MAqUoxFWMil1eZsVAcHsFJ3oxc0t2o03v5D3vNVUthMeNBuYYzdHl9nNYp cc --- 1094.5623.4.45 R9k38mnPwq7tYnZzy4SZBd3rRcMxyas"
+
+
+
+
+
+
+
+
+
+POST /hw1/ex3/shipping HTTP/1.1
+“User-Agent”: “Dumb Generator”
+“Host”: “com402.epfl.ch”
+“Content-Type”: “application/json”
+“Content-Length”: 91
+
+{"shipping_address": "lausanne", "product": "TTsnojVrvWZg25ilUBxrK5fhUCV1DQhp1uG0pqEZXns="}
+
+
+
+
+
+
+
+
+
+POST /hw1/ex4/transaction HTTP/1.1
+User-Agent: Dumb Generator
+Host: com402.epfl.ch
+Content-Type: application/json
+Content-Length: 225
+
+"HrtMpZmxdKc9Yi0O7GrPyzg9JIEARXDkkToMYlO4SN4uaNFXc6BqLQQs3kwtxAWYVE9nhAdiNsugrHRYQyOJIktWCBiNuRSrSgx80AnnD3zVEEvHHM7yu0oFxIaWDsOTSuO3RO19eRbZl0OJbYDtw pwd --_ sunnY_daY z0sKFlWVxvbhefEn116thlkPvsrTSrlwpFrwz5bC8Pmre6FbEcaA8tn"
+
+
+
+
+
+
+
+
