@@ -1,0 +1,46 @@
+
+Target 4 exploit the culnerability of sprintf. In this case argument are passed to sprintf anf then copied without any
+
+
+
+
+1)   The exploit makes use of the fact that we could construct a format string that looks like this and pass it as argument
+
+    <addr of one byte of EIP + 0x01010101> * 4 <stackpop sequence>  <%zx%n> * 4 <NOPs> <shellcode>
+
+
+
+( %08x%08x%194x%n%16x%n%257x%n%192x%n)
+
+2)  The attack starts use a sequence that looks like this  "%08x%08x" (stack pop seq.). On reaching this sequence, sprintf  will look for
+  the variables that correspond with  %x on the stack.  Effectively there are no such variables.  Thus 
+  the function's internal pointer down the stack.  The aim  is to have this point to the region right above the buffer where 
+   the string is printed.
+
+3)  The next string piece  uses the %n modifier.  When snprintf() reaches a %n, it searches for the next variable on the stack
+   and writes to the address it specifies.  
+ 
+4) If snprintf()'s internal pointer is pointing to the beginning of the string when it is processing the %n, it is possible to make it write to any address
+by putting that address at the beginning of the string.  
+
+5) Four different writes were performed. For each write  one byte of the EIP is overwritten.   The four addresses, each corresponding to one byte of the EIP, 
+is put at the very beginning of the  string.  
+
+
+
+6) Next the EIP is ovverwritten with correct values to make it point to the middle of NOP region of buffer.
+
+
+7)  Since %n writes the number of bytes read in so far, there is to  to pad this in order
+ to land at the correct values.
+
+8)   To do this,  an extra %zx is added in front of each %n, where z was an integer that increased the
+     byte count enough to write the number  required.
+
+10)  0x01010101  were added as dummy values in between each of the four addresses so that snprintf() would read the  
+     dummy values when processing %x and then the desired addresses when processing the %n.  
+
+
+1)  Addresses of EIP and middle region of NOP were dertermined (using GDB ) . These were then used in  the format string
+
+
