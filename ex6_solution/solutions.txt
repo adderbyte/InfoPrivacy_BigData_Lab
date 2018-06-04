@@ -1,0 +1,71 @@
+[Olagoke Lukman OLabisi]
+[256772]
+
+# Trace 1: HTTP
+## Give three websites (domain name and IP addresses) visited from source IP
+address `192.168.0.100` (this does not include the URLs related to online ads,
+showing images, internet telemetry, API calls, etc.)
+
+[www.amazon.com] - [205.251.242.54]
+[www.bing.com] - [69.16.143.26]
+[www.audible.com] - [72.21.211.97]
+
+## Give three search queries and the domain of the site for each query made from source IP address `192.168.0.100`
+
+[www.bing.com] - [madison map]
+[www.bing.com] - [chicago metro] 
+[www.amazon.com] - [adventures in stochastic processes]
+
+# Trace 2: FTP
+## What is the user name and password used to connect to the FTP server?
+
+username: [shiningmoon]
+password: [public]
+
+## List all files that were downloaded.
+
+[ARP.java], [L2Switch.java],[phase1.html],[dragon.zip]
+
+## List the full path for two files (in different directories) on the FTP server that were NOT downloaded.
+
+[/phase1/StoreForwardingDatalink.java], [/TeNet/phase1.ppt]
+
+# Trace 3: Traceroute
+## Briefly describe how the traceroute tool works including which network protocols are in use.
+
+[When a TCP packet is sent, its Time To Live (TTL) is set - this corresponds to the number of routers or hops it can pass through before the packet is discarded. As the packet passes through a router the TTL is decremented. If a router receives a packet with TTl of 1 (it decrements it to zero --which means no more further traveling, and no forwarding ),  the packet is discarded. The information sent by the router receiving a packet with TTL of 1 back to the original sender is called as "ICMP TTL exceeded messages". Thus  the receiver will automatically come to know the address of the sender. 
+
+Trace Route works by setting the TTL for a packet to 1, sending it towards the requested destination host, and listening for the reply. When the initiating machine receives a "time exceeded" response, it examines the packet to determine where the packet came from - this identifies the machine one hop away. Then the tracing machine generates a new packet with TTL 2, and uses the response to determine the machine 2 hops away, and so on. 
+protocol used: ICMP (plus UDP on Linux Machine) ]
+
+## Give the source IP address that issued the traceroute command and the destination IP address.
+
+Source IP: [192.168.0.100]
+Destination IP: [74.125.225.46]
+
+## List the IP addresses on the route between source and destination (meaning:
+do not include the IP addresses of the source and destination).
+
+[192.168.0.1], [10.131.180.1],[96.34.20.20],[96.34.17.95],[96.34.16.112],[96.34.16.77],[96.34.2.4],[96.34.0.7],[96.34.0.9],[96.34.3.9],[96.34.152.30],[209.85.254.120],[209.85.250.28]
+
+# Trace 4: POP
+## What is the POP username and password?
+
+username: [cs155@dummymail.com]
+password: [whitehat]
+
+## How many emails are in the user’s mailbox?
+
+[5]
+
+## Give the contents of from, to, subject, and date for one email message.
+
+From: [hariny <harinym@stanford.edu>]
+To: [cs155@dummymail.com]
+Subject: [wassup]
+Date: [Fri, 23 Apr 2010 08:21:50 -0700]
+
+## What email client (application) and operating system is this person using to send and receive email?
+
+Client: [Thunderbird 2.0.0.23 ]
+OS: [Windows/20090812]
